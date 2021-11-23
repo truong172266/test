@@ -1,7 +1,6 @@
 {
-  "name": "vuejs",
+  "name": "truong172266",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -38,5 +37,20 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` yarn install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truong172266/test.git"
+  },
+  "keywords": [
+    "truong172266"
+  ],
+  "author": "lazatsssv2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truong172266/test/issues"
+  },
+  "homepage": "https://github.com/truong172266/test#readme"
 }
